@@ -1,12 +1,7 @@
 body {
   text-align: center;
   font-family: 'Arvo', serif;
-  line-height: 1.5;
-  background-color: #DAEED4;
-}
-
-h1 {
-  color: #144305;
+  list-style-position: inside;
 }
 
 img {
@@ -23,13 +18,7 @@ width: 100px;
 min-height: 100px;
 }
 
-p {
-  width: 500px;
-  margin: auto;
-  list-style-position: inside;
-}
-
-a {
-  font-weight: 600;
-  color: #144305;
+ul {
+  width: 356px;
+  text-align: center;
 }
