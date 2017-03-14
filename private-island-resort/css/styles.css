@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: 'Arvo', serif;
+  line-height: 1.5;
+  background-color: #B3B7C7;
+}
+
+img {
+  height: 500px;
+  width: 900px;
+}
+
+table {
+display: inline;
+list-style: none;
+float: center;
+margin: 10px;
+width: 100px;
+min-height: 100px;
+}
+
+p {
+  width: 500px;
+  margin: auto;
+  list-style-position: inside;
+}
+
+a {
+  font-weight: 600;
+}
