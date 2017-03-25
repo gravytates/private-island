@@ -2,7 +2,11 @@ body {
   text-align: center;
   font-family: 'Arvo', serif;
   line-height: 1.5;
-  background-color: #B3B7C7;
+  background-color: #DAEED4;
+}
+
+h1 {
+  color: #144305;
 }
 
 img {
@@ -27,4 +31,5 @@ p {
 
 a {
   font-weight: 600;
+  color: #144305;
 }
